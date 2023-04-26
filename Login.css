@@ -1,0 +1,22 @@
+.FormStyle {
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+        margin: 255px 255px;
+        width: 300px;
+        padding: 2vw 1vw;
+        background-color: rgba(196, 106, 178, 0.877);
+        border-radius: 10px 10px 10px 10px;
+        
+}
+
+.TextStyle {
+    flex-direction: column;
+
+}
+p{
+    text-align: center;
+    margin: 255px 255px;
+    font-size: 20px;
+
+}

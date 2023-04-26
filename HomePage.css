@@ -1,0 +1,22 @@
+#displayArea
+{
+text-align: center;
+font-size: 30px;
+}
+.name
+{
+    text-align: center;
+    font-size: 20px;
+}
+h4{
+    text-align: center;
+}
+.list{
+    align-self: auto;
+    padding-inline: 50px;
+    font-size: larger;
+    /* text-align: center; */
+}
+button{
+    margin: 150px 250px 800px
+}
